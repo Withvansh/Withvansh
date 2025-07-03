@@ -1,12 +1,34 @@
-@@ -1,6 +1,6 @@
+# _Welcome / स्वागतम् / Bienvenue_   
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) 
 # Welcome aboard my code station <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" height="50" />🚀
 
-I am a 23 year old Engineer from India who loves space and exoplanets. I am currently a research intern at Academia Sinica Institute of Astronomy and Astrophysics, Taiwan, over the summer to work on Temperate Exoplanet Candidates' Detection using TESS, under the supervision of Dr. Alex Teachey. Previously, I worked as a Data Analyst at ZS Associates.
-I am a 24 year old Engineer from India who loves space and exoplanets. I am currently a research intern at Academia Sinica Institute of Astronomy and Astrophysics, Taiwan, working on finding Exoplanet candidates using the NASA Transiting Exoplanet Survey Satellite (TESS), under the supervision of Dr. Alex Teachey. Previously, I worked as a Data Analyst at ZS Associates.
+Skills and Technologies
+Languages: Python, Java, JavaScript, TypeScript
+Frameworks: Django, Flask, Angular, React, NextJS, Spring Boot
+Cloud Services: AWS (S3, Lambda, VPC, EC2)
+Databases: SQL, NoSQL
+Tools: Docker, Jenkins, Git
+Other: Linux, Shell Scripting, Agile Methodologies
 
 <details>
   <summary><i> If you want to know more about me, go warp speed through my ship 🛰️ sailing at 27,580 km/h (or 17,130 mph). Click <b> Here </b></i>
 @@ -18,29 +18,29 @@
+
+## AI Agents
+
+- **[Doc Bot](https://cdn.botpress.cloud/webchat/v2.2/shareable.html?configUrl=https://files.bpcontent.cloud/2024/10/03/20/20241003201830-M82WT2D2.json)**: A NextJS documentation bot. Pages from latest version of NextJS documentation have been fed into its knowledge base in a vector graph format, so it is more updated than ChatGPT.
+- **[Cosmetia](https://cdn.botpress.cloud/webchat/v2.2/shareable.html?configUrl=https://files.bpcontent.cloud/2024/10/03/20/20241003202130-YEVIP1TU.json)**: This bot acts like a sales person who knows about cosmetics. A CSV dataset of cosmetics has been fed into its knowledge base.
+
+---
+<h2 align="center">My CodeStats</h2>_
+
+_<h2 align="center">My CodeStats</h2>_
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Withvansh&show_icons=true&theme=radical)
+
+
+
 
 
 - 🔭 I’m currently finding ways to better detect Exoplanets during their transits
