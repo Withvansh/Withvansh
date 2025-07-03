@@ -1,9 +1,12 @@
 <div align="center">
+  
 # _Welcome / स्वागतम् / Bienvenue_   
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) 
+
+# Welcome aboard my code station <img align="right" 
+                                   src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" height="50" />🚀
 </div>
-# Welcome aboard my code station <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" height="50" />🚀
 
 Skills and Technologies
 Languages: Python, Java, JavaScript, TypeScript
